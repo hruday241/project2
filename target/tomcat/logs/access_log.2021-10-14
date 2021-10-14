@@ -1,0 +1,3 @@
+127.0.0.1 - - [14/Oct/2021:23:17:31 +0530] "GET /index.jsp HTTP/1.1" 302 - http-bio-8080-exec-1 5185
+127.0.0.1 - - [14/Oct/2021:23:17:31 +0530] "GET /core/admin/about.html HTTP/1.1" 200 11189 http-bio-8080-exec-2 556
+127.0.0.1 - - [14/Oct/2021:23:17:32 +0530] "GET /config/data/kiwi.version HTTP/1.1" 200 35 http-bio-8080-exec-3 171
